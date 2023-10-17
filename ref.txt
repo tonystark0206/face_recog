@@ -1,0 +1,30 @@
+[1]  Rauschnabel P A, Brem A, Ro Y. Augmented reality smart glasses:
+definition, conceptual insights, and managerial importance.Working
+paper, The University of Michigan-Dearborn, 2015
+[2] Kress B. The segmentation of the HMD market: optics for smart
+glasses, smart eyewear, AR and VR headsets. In: Proceedings of
+SPIE-The International Society for Optical Engineering, 2014,
+9202: 92020D-1–92020D-14
+[3] Zhanpeng Huang, Weikai Li, and Pan Hui. 2015. Ubii:
+Towards Seamless Interaction Between Digital and
+Physical Worlds. In Proceedings of the 23rd ACM
+International Conference on Multimedia (MM ’15).
+ACM, New York, NY, USA, 341–350.
+https://doi.org/10.1145/2733373.2806266
+[4] W. Zhao, R. Chellappa, A. Krishnaswamy, Discriminant analysis of
+principalcomponents for face recognition, in: Third IEEE International
+Conference onAutomatic Face and Gesture Recognition, 1998, pp. 336–
+341.
+[5] Yang B, Chen S. A comparative study on local binary pattern (LBP) based
+face recognition: LBP histogram versus LBP image. Neurocomputing
+2013;120:365–79. cited By (since 1996)
+[6]Dr.S.B.Thorat, S.K.Nayak , Miss.Jyoti P Dandale " Facial Recognition
+Technology: An analysis with scope in India " .
+[7] M.a Turk and A.P Pentland " Face recognition using Eigenfaces"
+Computer Vision and pattern 1991 IEEE Computer Society Conference.
+[8] M.S Bartlett, J.R Movellan, T.J Sejnowski Face Recognitions uing
+Independent component analysis, IEEE Transactions on Neural
+Networks. 
+[9] Dhanaseely, Himavathi, Srinivasan " Principle component analysis
+based cascade neural network for face recognition" Emerding trends in
+science, Engineering and Technology, IEEE 2012
